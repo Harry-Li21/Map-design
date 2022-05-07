@@ -31,7 +31,7 @@ The second tile set is geospatial data of SPD officer involved in shooting cases
 
 The third tile set is base map combined with geospatial data. The data are the same as the second layer, visualized by red dots, while the base map is changed to first layer, modified base map.
 
-## Seattle Electricity Consumption
+## Seattle Electricity Consumption(4th Layer)
 
 ### Avaliable Zoom Level: 10 - 14
 
